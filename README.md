@@ -1,4 +1,4 @@
-# Cougar County Library Management System 📚
+# Cougar County Library Management System 🐾
 
 Welcome to the Cougar County Library Management System — a full-stack web application designed to manage books, customers, and borrowing records in a public library environment.
 
